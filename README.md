@@ -12,7 +12,7 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ## 🚀 What i do: 
-🎯 Making websites in a mindful & demure way because good design should work for everyone.
+🎯 Making websites in a mindful & demure way because good design should work for everyone.  
 ⚡ Chase pixel perfection (within reason, I’m not that obsessive… or am I? 🤔).
 
 ## 💓 Things I love:  
