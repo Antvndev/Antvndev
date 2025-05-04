@@ -1,6 +1,6 @@
 # Meowdy👋I'm Tony :)
 
-🌍 I am a **Front-End Developer** currently based in **Gabrovo, Bulgaria**.  
+🌍 I am a **Front-End Developer** currently living in **Gabrovo, Bulgaria**.  
 💻 Open to work!  
 
 
@@ -15,5 +15,6 @@
 
 ## 💓 Things I love  
 🐈 ✨Cats✨.  
-☕ Consuming large amounts of coffee while debugging the one thing that refuses to work.    
 🔋 White monster.
+☕ Consuming large amounts of coffee while debugging the one thing that refuses to work.    
+🎮 Playing Video games, mainly FFxiv. Some could say im an addict but in my opinion its consistency (I'm definitely an addict >.> ).
