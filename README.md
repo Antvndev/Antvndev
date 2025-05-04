@@ -15,6 +15,6 @@
 
 ## 💓 Things I love  
 🐈 ✨Cats✨.  
-🔋 White monster.
+🔋 White monster.  
 ☕ Consuming large amounts of coffee while debugging the one thing that refuses to work.    
 🎮 Playing Video games, mainly FFxiv. Some could say im an addict but in my opinion its consistency (I'm definitely an addict >.> ).
