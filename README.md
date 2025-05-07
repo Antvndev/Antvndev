@@ -2,7 +2,7 @@
 
 🌍 I am working on being a **Front-End Developer**. Currently living in **Gabrovo, Bulgaria**.  
 💻 Open to work!  
-> You can view a live demo [here](https://antvndev.github.io/Portfolio/)
+You can view my portfolio live [here](https://antvndev.github.io/Portfolio/)
 
 
 ## 🛠️ Tech Stack  
