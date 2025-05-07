@@ -1,7 +1,8 @@
 # Meowdy👋I'm Tony :)
 
-🌍 I am a **Front-End Developer** currently living in **Gabrovo, Bulgaria**.  
+🌍 I am working on being a **Front-End Developer**. Currently living in **Gabrovo, Bulgaria**.  
 💻 Open to work!  
+> You can view a live demo [here](https://antvndev.github.io/Portfolio/)
 
 
 ## 🛠️ Tech Stack  
