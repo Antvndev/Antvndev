@@ -1,8 +1,7 @@
-# Miaoudy👋I'm Tony =)
+# Miaoudy👋 I'm Tony =)
 
 🌍 **Front-End Developer** wanna be. Currently living in **Gabrovo, Bulgaria**.  
-💻 Open to work!  
-You can view my portfolio live [here](https://antvndev.github.io/Portfolio/)
+💻 Open to work! You can view my portfolio live [here](https://antvndev.github.io/Portfolio/)
 
 
 ## 🛠️ Tech Stack  
@@ -11,7 +10,7 @@ You can view my portfolio live [here](https://antvndev.github.io/Portfolio/)
 
 ## 💓 Things I love  
 🎵 Rock, alt, metal  
-🐈 ✨Cats✨  
-🔋  White monster  
-☕ Consuming large amounts of coffee while debugging the one thing that refuses to work >.>    
-🎮 Currently addicted to FFxiv  
+🐈 Cats✨  
+🔋   Huge Monster enthusiast also,  
+☕ Consuming large amounts of coffee while debugging the one thing that refuses to work >.>    
+🎮 Currently addicted to FFxiv   
