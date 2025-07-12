@@ -11,6 +11,6 @@
 ## 💓 Things I love  
 🎵 Rock, alt, metal  
 🐈 Cats✨  
-🔋   Huge Monster enthusiast also,  
 ☕ Consuming large amounts of coffee while debugging the one thing that refuses to work >.>    
+🔋  Also a HUGE Monster enthusiast    
 🎮 Currently addicted to FFxiv   
