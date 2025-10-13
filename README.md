@@ -5,12 +5,12 @@
 
 
 ## 🛠️ Tech Stack  
-[![My Skills](https://skillicons.dev/icons?i=html,css,php,mysql,js,cpp,cs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,php,mysql,js,cpp)](https://skillicons.dev)
 
 
-## 💓 Things I love  
-🎵 Rock, alt, metal  
-🐈 Cats✨  
-☕ Consuming large amounts of coffee while debugging the one thing that refuses to work >.>    
-🔋  Also a HUGE Monster enthusiast    
-🎮 Currently addicted to FFxiv   
+## 💓 Addictions  
+🎵 Rock, Alt, Grunge, Metal  
+🐈 Cats  
+☕ Consuming large amounts of coffee while debugging the one thing that refuses to work >.<    
+🔋  Monster energy drinker (It's not an addiction It's consistency.)     
+🎮 I also love playing video games! Currenty addictions are: FFxiv && Skyrim   
